@@ -1,4 +1,4 @@
-# Telecom Management System - Milestone 2
+# Telecom Management System - SQL
 
 ## Project Description
 This project implements a SQL-based **Telecom Management System** for handling customer accounts, service plans, payments, benefits, and technical support tickets. It includes stored procedures, functions, and views to support both administrative tasks (e.g., account-plan management, cashback calculations) and customer actions (e.g., login validation, usage tracking). The system adheres to strict SQL guidelines with predefined data types, naming conventions, and error handling.
